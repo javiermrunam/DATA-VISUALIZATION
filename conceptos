@@ -1,0 +1,46 @@
+en la data visualization hay que evitar el sesgo (bias)
+El sesgo es un peso desproporcionado a favor o en contra de una cosa, persona o grupo en comparación con otra, generalmente de una manera que se considera injusta.
+Principios de Gestalt:
+
+Smilitud:
+Es la naturaleza humana agrupa cosas similares. En gestalt, elementos similares se agrupan visualmente, independientemente de su proximidad entre sí. 
+Se puede agrupar por color, forma o tamaño. Semejanza se puede usar para unir elementos que pueden no estar próximos. el otro al otro en un diseño.
+
+Continuación
+La ley de la continuidad postula que el ojo humano seguirá el camino más suave al ver las líneas, independientemente de cómo las líneas en realidad fueron dibujados.
+
+Cierre:
+Es uno de los principios más geniales de Gestalt y uno que ya tocado al principio de esta pieza. 
+Es la idea de que su cerebro completará las partes faltantes de un diseño o imagen para crear un todo.
+
+Proximidad:
+se refiere a qué tan cerca están los elementos entre sí. 
+Las relaciones de proximidad más fuertes son aquellas entre superposición de sujetos; 
+pero simplemente agrupar objetos en una sola área también puede tener un fuerte efecto de proximidad.
+
+RECOLECCION DE DATOS:
+diversidad: bases de datos publicas y privadas
+informacion estructurada o no estructurada
+estruc: tablas etc
+no estructurada: raw data
+
+distintos tipos de archivos y fuentes
+csv
+syslogs
+geolocalizados
+
+LIMPIEZA DE DATOS:
+estandarizar formatos
+gigo /riro
+garbage in y garbage out
+
+preparacion
+
+KPIS
+S.M.A.R.T
+SPECIFI
+MEDIBLES
+ALCANZABLES
+RELEVANTS
+TIME SCALABILTIES
+
